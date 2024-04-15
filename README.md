@@ -1,8 +1,8 @@
-#Student Attitude and Behavior Analysis
-#Introduction
+**Student Attitude and Behavior Analysis**
+**Introduction**
 The "Student Attitude and Behavior Analysis" project delves into understanding the factors influencing student performance and behavior in academic settings. By examining various aspects such as demographics, academic performance, study habits, and social behavior, this analysis aims to uncover insights into students' attitudes and behaviors towards education.
 
-#Project Structure
+**Project Structure**
 The project is structured as follows:
 
 #Loading the Data: This section focuses on loading the dataset and performing initial data exploration.
